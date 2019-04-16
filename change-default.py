@@ -34,7 +34,7 @@ i = 0
 for region in regions:
     print(str(i) + ": " + region)
     i = i + 1
-region = input("Which region would you like?")
+region = input("Which region file would you like?")
 
 creds = list_all_in_dir(root_dir + '/cred-files')
 i = 0
