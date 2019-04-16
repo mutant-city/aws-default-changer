@@ -1,0 +1,6 @@
+cred-files/*
+!cred-files/example
+.idea
+.DS_Store
+clutter
+shell
