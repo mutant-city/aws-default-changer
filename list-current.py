@@ -1,3 +1,3 @@
 import os
-os.system('readlink config')
-os.system('readlink credentials')
+os.system('readlink ~/.aws/config')
+os.system('readlink ~/.aws/credentials')
