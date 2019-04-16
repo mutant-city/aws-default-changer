@@ -10,4 +10,4 @@ Notes:
   * Backup your config and credentials files!
   * This must be put into the .aws folder
   * Has only been tested with python3.7
-  * Add this to path for system-wide usage!
+  * Add this to path/make an alias for system-wide usage!
