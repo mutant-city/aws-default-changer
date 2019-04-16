@@ -7,4 +7,4 @@ Notes:
   * Backup your config and credentials files
   * This must be put into the .aws folder
   * Has only been tested with python3.7
-  * Add this to your path for 
+  * Add this to your path for system-wide usage!
