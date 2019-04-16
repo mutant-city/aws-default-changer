@@ -11,4 +11,4 @@ Notes:
   * This must be put into the .aws folder
   * Has only been tested with python3.7(but theoretically should work with 3+ python)
   * Add this to path/make an alias for system-wide usage!
-  * only works on Linux/MacOS
+  * only works on Linux/MacOS(please submit P.R. for windows)
